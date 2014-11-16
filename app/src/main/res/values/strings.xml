@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Action Bar</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Action Bar</string>
+    <string name="btn_send_message">Send Message</string>
+    
+    <!-- Activity titles -->    
+    <string name="activity_location_found">Location Found</string>
+    
+    <!-- Action Bar action items -->
+    <string name="action_search">Sarch</string>
+    <string name="action_location_found">Location Found</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Check for Updates</string>
+    <string name="carddemo_title_misc_card">Misc</string>
+    <string name="may_know_card_title">OnBoard Sensors</string>
+    <string name="may_know_card_subtitle">List of Sensors inside your phone.</string>
+    <string name="may_know_card_add">Add</string>
+    <string name="may_know_card_inner_title">Temperature Sensor</string>
+    <string name="may_know_card_inner_subtitle">SHTC1</string>
+    <string name="demo_suggested_header">Suggestion</string>
+    <string name="demo_suggested_title">Sensordrone</string>
+    <string name="demo_suggested_member">Sensordrone</string>
+    <string name="demo_suggested_subtitle">If you have a sensor drone, you can connect to it.</string>
+    <string name="demo_suggested_community">Click to Connect</string>
+</resources>

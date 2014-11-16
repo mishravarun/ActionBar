@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/varun/AndroidStudioProjects/ActionBar/app/build/intermediates/pre-dexed/debug/classes-d55f0da91bec01cc50dde58d5c457e3657a0d1c9.jar"
+        jar="/home/varun/AndroidStudioProjects/ActionBar/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/varun/AndroidStudioProjects/ActionBar/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-777fe485a1cfbcf2b2484eb8cda09b8096ea57ef.jar"
+        jar="/home/varun/AndroidStudioProjects/ActionBar/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/varun/AndroidStudioProjects/ActionBar/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-5d18d8468cb41ef7b6f1b894a84ef6408884ab14.jar"
+        jar="/home/varun/Development/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/varun/AndroidStudioProjects/ActionBar/app/build/intermediates/pre-dexed/debug/classes-6b714bf8e318d9ca7ea2290d3aa6711ce0123ae8.jar"
+        jar="/home/varun/AndroidStudioProjects/ActionBar/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/library/1.9.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a64671bd87b29748d87865871cc95147b89a2192"/>
+
+</pre-dex-items>
